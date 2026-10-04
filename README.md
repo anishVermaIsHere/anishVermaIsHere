@@ -1,6 +1,6 @@
-# Hey! 👋 I am Anish Verma
+# Anish Verma
 
-## JavaScript Developer | FrontEnd Developer | FullStack Developer
+## FrontEnd Developer | FullStack Developer | JavaScript Developer 
 
 ## 🧭 About me
 Web Developer with 4 years of experience and hands-on experience building responsive, high-performance web applications using React.js, Redux, and modern UI libraries like Tailwind, Material UI, ShadeCN, Ant Design, etc. Passionate about crafting clean, intuitive interfaces and translating complex requirements into scalable, user-friendly products. Skilled in the MERN stack, RESTful API integration, and delivering end-to-end features from design to deployment.
